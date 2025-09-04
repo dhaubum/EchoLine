@@ -39,7 +39,14 @@
 - login to your account
 ```
 
-Telegram: Contact [@EchoLineChat](https://t.me/EchoLineChat)
+FAQ
+-----------
+**Q: Do you have telegram?/У вас есть telegram?**
+
+A: Telegram: Contact [@EchoLineChat](https://t.me/EchoLineChat)
+
+-----------
+
 
 *We are not responsible for the consequences of your use of our application. 
 We do not guarantee the anonymity and security of your messages.
