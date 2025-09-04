@@ -40,3 +40,8 @@
 ```
 
 Telegram: Contact [@EchoLineChat](https://t.me/EchoLineChat)
+
+*We are not responsible for the consequences of your use of our application. 
+We do not guarantee the anonymity and security of your messages.
+Use it at your own risk.
+We are demonstrating the functionality of our beta app.*
