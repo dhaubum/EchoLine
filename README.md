@@ -31,7 +31,7 @@
 
 **How to start using:**
 ```
-- unzip the archive
+- unzip the archive EchoLine.zip
 - install it if it is not installed .NET 7.0 Desktop Runtime (v7.0.20)
 - run ChatClient.exe
 - register
