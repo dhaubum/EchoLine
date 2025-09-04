@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="EchoLine.jpg" width="250"/>
+  <img src="EchoLine.jpg"/>
 </div>
 
 **download -** [EchoLine](https://github.com/dhaubum/EchoLine/releases/tag/EchoLine_b1.0.0)
