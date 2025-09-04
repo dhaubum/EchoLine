@@ -41,7 +41,7 @@
 
 FAQ
 -----------
-**Q: Do you have telegram?/У вас есть telegram?**
+**Q: Do you have telegram?**
 
 A: Telegram: Contact [@EchoLineChat](https://t.me/EchoLineChat)
 
