@@ -5,6 +5,12 @@
   **Welcome to chat!**
 </div>
 
+<div align="center">
+  <img src="EchoLine.jpg" width="250"/>
+</div>
+
+**download -** [EchoLine](https://github.com/dhaubum/EchoLine/releases/tag/EchoLine_b1.0.0)
+
 **Instructions:**
 ```
 - Press Enter to insert a new line in your message
