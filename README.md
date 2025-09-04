@@ -48,7 +48,7 @@ We are demonstrating the functionality of our beta app.*
 
 
 **You can contribute to the development:**
-
-*Tonkeeper:* UQCMX6uvw4nbd0KFLH1glUwGQKsMVmXzC8l_NH0xzxdC7znK
-
-*Bitcoin:* bc1qgkwtq5nc43yxgfd7d6w3q2zwh2jdkxz2xw83r2
+```
+Tonkeeper: UQCMX6uvw4nbd0KFLH1glUwGQKsMVmXzC8l_NH0xzxdC7znK
+Bitcoin: bc1qgkwtq5nc43yxgfd7d6w3q2zwh2jdkxz2xw83r2
+```
