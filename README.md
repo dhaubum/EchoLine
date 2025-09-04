@@ -15,7 +15,8 @@
 ```
 - Press Enter to insert a new line in your message
 - Press Ctrl + Enter to send the message
-- Private messages are displayed in red and include your username. To send a message to all users, use the recipient "all"
+- Private messages are displayed in red and include your username.
+- To send a message to all users, use the recipient "all"
 ```
 **Info:**
 ```
