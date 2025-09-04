@@ -45,3 +45,7 @@ Telegram: Contact [@EchoLineChat](https://t.me/EchoLineChat)
 We do not guarantee the anonymity and security of your messages.
 Use it at your own risk.
 We are demonstrating the functionality of our beta app.*
+
+**you can contribute to the development:**
+*Tonkeeper:* UQCMX6uvw4nbd0KFLH1glUwGQKsMVmXzC8l_NH0xzxdC7znK
+*Bitcoin:* bc1qgkwtq5nc43yxgfd7d6w3q2zwh2jdkxz2xw83r2
